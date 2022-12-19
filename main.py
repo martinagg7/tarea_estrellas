@@ -1,0 +1,1 @@
+from modulos.dibujo_estrella import estrella
